@@ -20,6 +20,7 @@ This repository focuses on practical applications such as **automation, health m
 
 ---
 
+
 ## 🛠️ Technologies Used
 
 * Arduino Uno
