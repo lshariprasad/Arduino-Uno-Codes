@@ -1,7 +1,6 @@
 #include <SPI.h>
 #include <Servo.h>
 
-
 // ------------------ TFT PINS ------------------
 #define TFT_CS    10
 #define TFT_DC     6
@@ -259,3 +258,4 @@ void loop() {
   }
 
 }
+
